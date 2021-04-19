@@ -1,12 +1,12 @@
 # predict_salary
 
 
-Packages used: 
-pandas: data manipulation
-sklearn: statistical modeling and machine learning modeling
-numpy: matrix calculation
-matplotlib and seaborn: data visulization
-lightgbm: Light GBM modeling
+## Packages used: 
+* pandas: data manipulation
+* sklearn: statistical modeling and machine learning modeling
+* numpy: matrix calculation
+* matplotlib and seaborn: data visulization
+* lightgbm: Light GBM modeling
 
 
 This folder includes
