@@ -11,11 +11,11 @@
 
 Please run the code by the order below
 
-1_Data_Exploration.ipynb
-2_Linear Regression Model (Baseline).ipynb
-3_Linear_Models_with_regularization.ipynb
-4_LightGBM.ipynb
-5_Prediction.ipynb
+* 1_Data_Exploration.ipynb
+* 2_Linear Regression Model (Baseline).ipynb
+* 3_Linear_Models_with_regularization.ipynb
+* 4_LightGBM.ipynb
+* 5_Prediction.ipynb
 
 
 
