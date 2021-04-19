@@ -9,21 +9,6 @@
 * lightgbm: Light GBM modeling
 
 
-This folder includes
-
-1. test_features.csv
-
-2. Anwer_to_questions.pdf
-
-3. Jupyter notebooks in html
-
-A folder includes Jupyter Notebooks in html formats
-
-4.Jupyter notebooks and Code
-
-A folder with all codes if want to reproduce results
-
-
 Please run the code by the order below
 
 1_Data_Exploration.ipynb
